@@ -93,6 +93,6 @@ The Code of Conduct is adapted from the Contributor Covenant, version 1.4, avail
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
 
-This Contribution Guideline Template is adapted from Billie Thompson, Purple Booth, Good-CONTRIBUTING.md-template.md available at https://gist.github.com/PurpleBooth/b24679402957c63ec426
+This Contribution Guideline Template is adapted from Billie Thompson, Purple Booth, Good-CONTRIBUTING.md-template.md, available at https://gist.github.com/PurpleBooth/b24679402957c63ec426
 
 [homepage]: https://gist.github.com/PurpleBooth
