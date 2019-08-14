@@ -1,5 +1,5 @@
 # Contribution
-Please read this before making contributions to any of any repositories.
+Please read this before making contributions to any of the repositories.
 
 When contributing to any of the repositories, please first discuss the change you wish to make via email, 
 or any other method with the owners of the repository before making a change. 
