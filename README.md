@@ -5,6 +5,7 @@ When contributing to any of the repositories, please first discuss the change yo
 or any other method with the owners of the repository before making a change. 
 
 Please note that if you're a Colby student, remeber to give me credit at the end of your wiki page.
+
 PLEASE DO NOT COPY DIRECTLY FOR YOUR PROJECTS. 
 
 ## Pull Request Process
